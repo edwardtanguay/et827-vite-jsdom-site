@@ -1,6 +1,6 @@
 export const Footer = () => {
 	return `
 	<hr/>
-	<footer>Copyright 2023.</footer>	
+	<footer class="text-red-600">Copyright 2023.</footer>	
 	`
 }

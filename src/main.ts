@@ -5,7 +5,7 @@ import { Footer } from './components/Footer';
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/ `
   <div>
  ${Header()} 
-<div>content of site</div> 
+ <button class="btn-primary">Submit</button>
 ${Footer()}
   </div>
 `
