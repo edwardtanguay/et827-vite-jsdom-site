@@ -1,4 +1,4 @@
-const colors = ['red', 'pink', 'blue', 'orange', 'green', 'purple', 'orchid'];
+import colors from '../data/colors.json';
 
 export const ColorBallExample = () => {
 	return `

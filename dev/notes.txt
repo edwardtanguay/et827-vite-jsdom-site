@@ -1,5 +1,4 @@
 - x create a Tailwind button
 - x site clean up in components
-- .. wrapper components
-
-- import from JSON
+- x wrapper components
+- .. import from JSON
