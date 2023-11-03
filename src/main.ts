@@ -3,9 +3,11 @@ import { Header } from './components/Header';
 import { Footer } from './components/Footer';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/ `
-  <div>
+	<div>
  ${Header()} 
- <button class="btn-primary">Submit</button>
+ <div class="p-4">
+	<button class="btn-primary">Submit</button>
+ </div>
 ${Footer()}
-  </div>
+	</div>
 `
