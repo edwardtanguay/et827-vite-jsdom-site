@@ -8,8 +8,8 @@ import { Wrapper } from './components/Wrapper';
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = /*html*/ `
 
 ${Header()} 
-${Wrapper(TailwindButtonExample())}
-${Wrapper(ColorBallExample())}
+${Wrapper('Tailwind button', TailwindButtonExample())}
+${Wrapper('Color balls', ColorBallExample())}
 ${Footer()}
 
 `
