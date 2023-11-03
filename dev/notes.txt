@@ -1,4 +1,5 @@
 - x create a Tailwind button
 - x site clean up in components
 - x wrapper components
-- .. import from JSON
+- x import from JSON
+- .. import and display employee data
